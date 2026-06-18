@@ -1,0 +1,7 @@
+﻿meta/labels.json
+meta_spacing/
+candidates_gt/
+torchxrayvision/
+results/
+*.npy
+*.pt
